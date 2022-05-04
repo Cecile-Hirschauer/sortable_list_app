@@ -2,7 +2,7 @@
 
 ## Drag and Drop Items application using HTML, CSS, and Vanilla JS
 
-Project Spesificatios:
+Project Spesifications:
 
 - Create an ordered list (Top 10 regions to discover in 2022)
 - Scramble list items randomly
